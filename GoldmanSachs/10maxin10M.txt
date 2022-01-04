@@ -1,0 +1,1 @@
+We can maintain a priority queue and remove the smallest number in the queue when we find a greater number in the list
