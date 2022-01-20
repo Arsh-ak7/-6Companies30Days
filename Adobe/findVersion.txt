@@ -1,0 +1,1 @@
+We would first sort the list and then compare them with the . as a breakpoint.
